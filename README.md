@@ -1,4 +1,4 @@
 # elastic-job-example
 
-elastic-job-example-lite-springboot下加入了annotation 使用elastic-job-lite example
+在elastic-job-example-lite-springboot下增加elastic-job-lite的使用示例
 
